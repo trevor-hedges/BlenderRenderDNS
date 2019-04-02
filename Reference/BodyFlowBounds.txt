@@ -1,0 +1,6 @@
+xmin: 0
+xmax: 30
+ymin: 0
+ymax: 11
+zmin: 0
+zmax: 11
